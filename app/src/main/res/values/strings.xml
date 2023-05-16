@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">new reservation</string>
+    <string name="name">NAME: </string>
+    <string name="nameHint">Enter your name</string>
+    <string name="number">PHONE NUMBER: </string>
+    <string name="numberHint">Enter your phone number</string>
+    <string name="groupSize">NO. OF PAX: </string>
+    <string name="groupSizeHint">Enter the number of pax</string>
+    <string name="smokeOpt1">Smoking area</string>
+    <string name="smokeOpt2">Non-Smoking area</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="cancel">CANCEL</string>
+</resources>
